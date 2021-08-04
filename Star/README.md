@@ -30,3 +30,6 @@ Blizzard 스타크래프트2 경기의 행동 데이터로 승패를 예측합�
   #### 6) Right Click : 마우스 우클릭
   #### 7) Selection : 객체 선택
   #### 8) SetControlGroup : 부대 지정
+
+## MODEL
+- LightGBM 사용
